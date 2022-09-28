@@ -8,7 +8,7 @@ package semver;
  * <digit> ::= "0" | <positive digit>
  * <positive digit> ::= "1" | "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9"
  */
-public class NumericIdentifier
+public final class NumericIdentifier
 {
 	private int number;
 

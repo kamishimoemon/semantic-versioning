@@ -4,7 +4,7 @@ import org.junit.*;
 import static org.junit.Assert.*;
 
 /**
- * Backus–Naur Form Grammar for Numeric Identifiers
+ * Backusâ€“Naur Form Grammar for Numeric Identifiers
  * 
  * <numeric identifier> ::= "0" | <positive digit> | <positive digit> <digits>
  * <digits> ::= <digit> | <digit> <digits>
